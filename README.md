@@ -1,11 +1,17 @@
 # Quo-Roma - ETH Rome Hackathon 2023
 
 🥇 First place Governance track
+
 🥈 Second place for #WAKU integration
+
 🥇 First place for RAILGUN DAO integration
+
 🥇 First place for Sismo integration with jury felicitation
+
 🥉 Third place for The Graph integration
+
 🥇 First place for Secret Network, an Ethereum-based project that uses PaaS
+
 🥈 Second place for #Brian (AI ETH chat) integration
 
 ## Waku - Encryption message workflow
