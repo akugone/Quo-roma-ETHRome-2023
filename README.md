@@ -14,6 +14,14 @@
 
 🥈 Second place for #Brian (AI ETH chat) integration
 
+# Team
+
+https://github.com/truchot
+
+https://github.com/RegisGraptin
+
+https://github.com/akugone
+
 ## Waku - Encryption message workflow
 
 We are using Waku to exchange messages. However, all the messages are sent in clear. It is not a problem for some DAOs however, for some communities, some messages need to be encrypted to be sure to be transmitted and to avoid censorship.
