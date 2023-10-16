@@ -22,6 +22,60 @@ https://github.com/RegisGraptin
 
 https://github.com/akugone
 
+# Project
+
+Empowering charities through DAOs and NFTs. Join, fund, chat, vote, and make a global impact with transparency and privacy—a new way to engage in causes you care about.
+
+> > Vercel deployment
+
+https://quoroma.vercel.app/
+
+> > Contract addresses (Polygon-Mumbai) :
+
+=> QuoromaID: 0xe36f3FFd23E639c2324116d64Cce557B8a51165E
+
+Polygonscan contract
+
+=> DaoFactory: 0x8aFf9b94CB8294035162F1B61A8b18fA3ec5E1A0
+
+PolygonScan contract
+
+> > Subgraph :
+
+https://thegraph.com/hosted-service/subgraph/akugone/romackathon
+
+# Bounties
+
+BOUNTIES
+
+=> SISMO
+Github implementation link
+We utilize Sismo to verify if the owner has the right NFT to access a DAO through ownership or minting.
+
+=> WAKU
+Github implementation link
+We used Waku for the entire DAO chat functionality. Each DAO creation results in a dedicated chat, and we ensure end-to-end message encryption using symmetric encryption.
+
+=> THE GRAPH
+Github implementation link
+We utilize The Graph to index all information related to DAOs, including their proposals.
+
+=> PEANUTS PROTOCOL
+Github implementation link
+We utilize the Peanuts protocol to generate giveaway links, adding an entertaining and engaging element to our community interactions. With Peanuts, you can effortlessly create unique NFT giveaways or rewards for DAO moderators.
+
+=> RAILGUN
+Github implementation link
+We select Railgun to implement a voting system enabling DAO users to mainain their anonymity while casting their votes. We developed a smartcontract for users to mint a NFT allowing them to participate in the voting process by choosing between a "yes" or "no" option.
+
+=> BRIAN
+Github implementation link
+We submitted our project to BRIAN Bounties after integrating AI into our DAO chat. Now, if a user has a question about web3, they can activate the AI chat by simply typing the command '/brian' in the chat.
+
+=> SECRET NETWORK
+Github implementation link
+We used Secret Network for the voting part of the DAO, the user would be able to trigger a proposal voting system directly in the Chat, using the command "/secret"
+
 ## Waku - Encryption message workflow
 
 We are using Waku to exchange messages. However, all the messages are sent in clear. It is not a problem for some DAOs however, for some communities, some messages need to be encrypted to be sure to be transmitted and to avoid censorship.
